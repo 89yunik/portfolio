@@ -17,6 +17,9 @@ function Profile() {
               <td>2021.8</td>
               <td>서울시립대학교 전자전기컴퓨터공학부 졸업(예정)</td>
             </tr>
+            <tr>
+
+            </tr>
           </tbody>
         </table>
       </div>

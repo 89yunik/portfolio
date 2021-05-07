@@ -4,7 +4,7 @@ function Project() {
       <div>
         <h3>2021.2.9 ~ 2021.5.9</h3>
         <h2>웹사이트 제작</h2>
-        <p>React.js, Express</p>
+        <p>ReactJS, ExpressJS</p>
         <ol>
           <li>
             로그인ㆍ회원가입ㆍ비밀번호 찾기 기능
