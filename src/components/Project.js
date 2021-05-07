@@ -2,7 +2,7 @@ function Project() {
   return (
     <section className="section-project">
       <div>
-        <h3>2021.2.9 ~ 2021.5.9</h3>
+        <h3>2021.2.9 ~ 2021.5.7</h3>
         <h2>웹사이트 제작</h2>
         <p>ReactJS, ExpressJS</p>
         <ol>
